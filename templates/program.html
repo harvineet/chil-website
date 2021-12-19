@@ -8,12 +8,14 @@
   </div>
   {{ components.tabs([
         ("speakers", "Keynotes", "active"),
-        ("tutorials", "Tutorials"),
-        ("workshops", "Workshop Posters"),
-        ("proceedings", "Proceedings Posters"),
+        ("tutorials", "Tutorials")
     ])}}
 {% endblock %}
-
+    
+        {# Removed tabs
+        ("workshops", "Workshop Posters"),
+        ("proceedings", "Proceedings Posters"),
+        #}
 
 {% block content %}
   <div class="page-content">
