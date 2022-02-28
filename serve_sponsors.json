@@ -1,0 +1,14 @@
+[
+  {
+    "UID": "1", 
+    "image": "/static/images/sponsors/health-at-scale.png", 
+    "level": "silver", 
+    "name": "Health@Scale"
+  }, 
+  {
+    "UID": "2", 
+    "image": "/static/images/sponsors/vector-institute.png", 
+    "level": "silver", 
+    "name": "Vector Institute"
+  }
+]

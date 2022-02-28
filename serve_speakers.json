@@ -1,0 +1,62 @@
+[
+  {
+    "UID": "S01", 
+    "abstract": "", 
+    "bio": "Dr. Rumi Chunara is an Associate Professor at New York University, jointly appointed at the Tandon School of Engineering (in Computer Science) and the School of Global Public Health (in Biostatistics/Epidemiology). Her PhD is from the Harvard-MIT Division of Health Sciences and Technology and her BSc from Caltech. Her research group focuses on developing computational and statistical approaches for acquiring, integrating and using data to improve population and public health. She is an MIT TR35, NSF Career, Bill & Melinda Gates Foundation Grand Challenges, Facebook Research and Max Planck Sabbatical award winner.", 
+    "image": "static/images/speakers/rumi_chunara.jpg", 
+    "institution": "New York University", 
+    "slideslive_active_date": "", 
+    "slideslive_id": "", 
+    "speaker": "Rumi Chunara", 
+    "title": "", 
+    "website": ""
+  }, 
+  {
+    "UID": "S02", 
+    "abstract": "", 
+    "bio": "Lorin Crawford is a Senior Researcher at Microsoft Research New England. He also holds a position as the RGSS Assistant Professor of Biostatistics at Brown University. His scientific research interests involve the development of novel and efficient computational methodologies to address complex problems in statistical genetics, cancer pharmacology, and radiomics (e.g., cancer imaging). Dr. Crawford has an extensive background in modeling massive data sets of high-throughput molecular information as it pertains to functional genomics and cellular-based biological processes. His most recent work has earned him a place on Forbes 30 Under 30 list, The Root 100 Most Influential African Americans list, and recognition as an Alfred P. Sloan Research Fellow and a David & Lucile Packard Foundation Fellowship for Science and Engineering. Before joining Brown, Dr. Crawford received his PhD from the Department of Statistical Science at Duke University and received his Bachelor of Science degree in Mathematics from Clark Atlanta University.", 
+    "image": "static/images/speakers/lorin_crawford.jpg", 
+    "institution": "Microsoft Research New England; Brown University", 
+    "slideslive_active_date": "", 
+    "slideslive_id": "", 
+    "speaker": "Lorin Crawford", 
+    "title": "", 
+    "website": ""
+  }, 
+  {
+    "UID": "S03", 
+    "abstract": "", 
+    "bio": "Danielle Belgrave is a Senior Staff Research Scientist at DeepMind. Prior to joining DeepMind she worked in the Healthcare Intelligence group at Microsoft Research and was a tenured research fellow at Imperial College London. Her research focuses on integrating medical domain knowledge, machine learning and causal modelling frameworks to understand health. She obtained a BSc in Mathematics and Statistics from London School of Economics, an MSc in Statistics from University College London and a PhD in the area of machine learning in health applications from the University of Manchester.", 
+    "image": "static/images/speakers/danielle_belgrave.jpg", 
+    "institution": "DeepMind", 
+    "slideslive_active_date": "", 
+    "slideslive_id": "", 
+    "speaker": "Danielle Belgrave", 
+    "title": "", 
+    "website": ""
+  }, 
+  {
+    "UID": "S04", 
+    "abstract": "", 
+    "bio": "Nuria Oliver is Co-founder and Vice-president of ELLIS (The European Laboratory for Learning and Intelligent Systems), Co-founder and Director of the ELLIS Unit Alicante, Chief Data Scientist at Data-Pop Alliance and Chief Scientific Advisor to the Vodafone Institute. Nuria earned her PhD from MIT. She is a Fellow of the ACM, IEEE and EurAI. She is the youngest member (and fourth female) in the Spanish Royal Academy of Engineering. She is also the only Spanish scientist at SIGCHI Academy. She has over 25 years of research experience in human-centric AI and is the author of over 180 widely cited scientific articles as well as an inventor of 40+ patents and a public speaker. Her work is regularly featured in the media and has received numerous recognitions, including the Spanish National Computer Science Award, the MIT TR100 (today TR35), Young Innovator Award (first Spanish scientist to receive this award); the 2020 Data Scientist of the Year by ESRI, the 2021 King Jaume I award in New Technologies and the 2021 Abie Technology Leadership Award. In March of 2020, she was appointed Commissioner to the President of the Valencian Government on AI Strategy and Data Science against COVID-19. In that role, she has recently co-led ValenciaIA4COVID, the winning team of the 500k XPRIZE Pandemic Response Challenge. Their work was featured in WIRED, among other media.", 
+    "image": "static/images/speakers/nuria_oliver.jpg", 
+    "institution": "ELLIS", 
+    "slideslive_active_date": "", 
+    "slideslive_id": "", 
+    "speaker": "Nuria Oliver", 
+    "title": "", 
+    "website": ""
+  }, 
+  {
+    "UID": "S05", 
+    "abstract": "", 
+    "bio": "Dr. Tenenbaum serves as the Chief Data Officer (CDO) for DHHS, where she oversees data strategy across the Department enabling the use of information to inform and evaluate policy and improve the health and well-being of residents of North Carolina. Prior to taking on the role of CDO, Dr. Tenenbaum was a founding faculty member of the Division of Translational Biomedical Informatics within Duke University's Department of Biostatistics and Bioinformatics where her research focused on informatics methods to enable precision medicine, particularly in mental health. She is also interested in ethical, legal, and social issues around big data and precision medicine. Nationally, Dr. Tenenbaum has served as Associate Editor for the Journal of Biomedical Informatics and as an elected member of the Board of Directors for the American Medical Informatics Association (AMIA). She currently serves on the Board of Scientific Counselors for the National Library of Medicine. After earning her bachelor's degree in biology from Harvard, Dr. Tenenbaum was a Program Manager at Microsoft Corporation in Redmond, WA for six years before pursuing a PhD in biomedical informatics at Stanford University. Dr. Tenenbaum is a strong promoter and advocate of young women interested in STEM (science, technology, engineering, and math) careers.", 
+    "image": "static/images/speakers/jessica_tenenbaum.jpg", 
+    "institution": "North Carolina Department of Health and Human Services; Duke University School of Medicine", 
+    "slideslive_active_date": "", 
+    "slideslive_id": "", 
+    "speaker": "Jessica Tenenbaum", 
+    "title": "", 
+    "website": ""
+  }
+]
